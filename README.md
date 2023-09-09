@@ -1,3 +1,5 @@
+<img src="./screengrab.png" />
+
 # App about Me for Zuri HNG Internship
 This app is my stage 1 submission for zuri HNG.
 
